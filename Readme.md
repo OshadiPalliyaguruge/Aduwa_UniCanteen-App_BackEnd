@@ -1,4 +1,4 @@
-# ADUWA Canteen App
+# ADUWA (Canteen App)
 
 <div align='center'>
  <img src="https://github.com/Judy0817/university_canteen/assets/119217708/9d2ab838-13d7-4465-bb97-97520d1d2892" width="400" align="center">
